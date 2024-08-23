@@ -1,0 +1,212 @@
+.div1{
+    width: 100%;
+    text-align: center;
+    color: white;
+    background-color:steelblue;
+    padding: 20px;
+    padding-top: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    position: absolute;
+
+    }
+
+.div1 ul li{
+    display: inline-block;
+}
+
+    .div2{
+        width: 80%;
+        text-align: center;
+        background-color: white;
+        padding: 5px;
+        margin-left: 150px;
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+        margin-top: 100px;
+    }
+
+
+    .div3{
+        width: 80%;
+        height: 200px;
+        background-color: white;
+        margin-left: 150px;
+    }
+
+    .div3 h2{
+        padding-top: 20px;
+        padding-left: 50px;
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+    }
+
+    .div3 img{
+        width: 100px;
+        height: 100px;
+        padding-left: 50px;
+        position: absolute;
+        
+        
+    }
+
+    .div3 p{
+        padding-left: 200px;
+        padding-top: 30px;
+        display: inline-block;
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+    .div4{
+        width: 80%;
+        background-color: white;
+        margin-left: 150px;
+    }
+
+    .div4 table{
+        width: 90%;
+        margin-left: 50px;
+        border-color: white;
+    }
+
+    .div4 h2{
+        padding-top: 20px;
+        padding-left: 50px;
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+    .div4 thead{
+        background-color: steelblue;
+        color: white;
+        text-align: left;
+
+    }
+
+    .div5{
+        width: 80%;
+        background-color: white;
+        margin-left: 150px;
+    }
+
+    .div5 h2{
+        padding-left: 50px;
+        padding-top: 20px;
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+
+   
+
+
+    .box1{
+        width: 400px;
+        height: 250px;
+        background-color: lightgrey;
+        text-align: center;
+        border-radius: 10px;
+        margin-left: 30px;
+        padding-top: 20px;
+        
+    }
+
+    .box1 #image1{
+        border-radius: 50%;
+        box-shadow: 3px 3px 2px  black;
+    }
+
+    .box2{
+        width: 400px;
+        height: 250px;
+        background-color: lightgrey;
+        text-align: center;
+        border-radius: 10px;
+        margin-left: 500px;
+        margin-top: -270px;
+        padding-top: 20px;
+    }
+
+    .box2 #image2{
+        border-radius: 50%;
+        box-shadow: 3px 3px 2px  black;
+    }
+
+    .box3{
+        width: 400px;
+        height: 250px;
+        background-color: lightgrey;
+        text-align: center;
+        border-radius: 10px;
+        margin-left: 30px;
+        padding-top: 20px;
+        margin-top: 30px;
+        
+    }
+
+    .box3 #image3{
+        border-radius: 50%;
+        box-shadow: 3px 3px 2px  black;
+    }
+
+
+    .div6{
+        background-color: white;
+        width: 80%;
+        margin-left: 150px;
+    }
+
+    .div6 h2{
+        margin-left: 50px;
+        padding-top: 20px;
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+    .div6 form{
+        font-size: 20px;
+        margin-left: 30px;
+    }
+
+    .div form{
+        height: 20px;
+    }
+   
+    .div6 #form1{
+        width: 1000px;
+        height: 50px;
+        border: 2px solid whitesmoke;
+        border-radius: 10px;
+    }
+
+    .div6 #form2{
+        width: 1000px;
+        height: 50px;
+        border: 2px solid whitesmoke;
+        border-radius: 10px;
+    }
+
+    .div6 #form3{
+        width: 1000px;
+        height: 50px;
+        border: 2px solid whitesmoke;
+        border-radius: 10px;
+    }
+
+    .div6 #form4{
+        width: 1000px;
+        height: 50px;
+        border: 2px solid whitesmoke;
+        border-radius: 10px;
+    }
+
+    .div6 #form5{
+        width: 100px;
+        height: 50px;
+        background-color: green;
+        color: white;
+        margin-bottom: 20px;
+    }
+
+    .div7{
+        background-color: steelblue;
+        width: 100%;
+        color: white;
+        padding: 30px;
+        padding-left: 700px;
+    }
